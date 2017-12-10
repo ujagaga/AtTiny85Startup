@@ -1,3 +1,8 @@
+/.metadata/
 /RemoteSystemsTempFiles/
-*Release/
-.metadata/
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.map
